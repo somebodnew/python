@@ -1,7 +1,10 @@
-numpy
+math
 matplotlib
+numpy
 pandas
+pygad
+pygame
+tensorflow
 scipy
 scikit-learn
 xgboost
-pygad
